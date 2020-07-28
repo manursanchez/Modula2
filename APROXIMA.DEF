@@ -1,0 +1,34 @@
+DEFINITION MODULE APROXIMA;
+
+FROM P2BIOS IMPORT NATURAL,REAL;
+
+(*********************************)
+(* FUNCIONES PUBLICAS DEL MODULO *)
+(*********************************)
+
+(* FUNCIONES YA IMPLEMENTADAS *)
+
+(* Implementacion de la funcion fact *)
+PROCEDURE fact(K:NATURAL):REAL;
+
+(* Implementacion de la funcion pot *)
+PROCEDURE pot(X:REAL;K:NATURAL):REAL;
+
+(* Implementacion de la funcion tmno *)
+PROCEDURE tmno(X:REAL;K:NATURAL):REAL;
+
+(* FUNCIONES QUE HA DE IMPLEMENTAR EL ALUMNO *)
+
+(* Implementacion de la funcion sink *)
+PROCEDURE sink(X:REAL;K:NATURAL):REAL;
+
+(* Implementacion de la funcion isink *)
+PROCEDURE isink(X:REAL;K:NATURAL;P,F:REAL):REAL;
+
+(* Implementacion de la funcion iisink *)
+PROCEDURE iisink(X:REAL;K:NATURAL;P,F,S:REAL):REAL;
+
+(* Implementacion de la funcion sinkit *)
+PROCEDURE sinkit(X:REAL;K:NATURAL):REAL;
+
+END APROXIMA.

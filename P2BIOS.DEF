@@ -1,0 +1,34 @@
+DEFINITION MODULE P2BIOS;
+
+(* Longitud maxima de las cadenas leidas *)
+CONST CADENALength = 50;
+
+(* Abstraccion de tipos *)
+TYPE TipoCADENA = ARRAY [0..CADENALength-1] OF CHAR;
+     NATURAL   = CARDINAL;
+     ENTERO    = INTEGER;
+     REAL      = LONGREAL;
+
+(* Lee una cadena *)
+PROCEDURE LeeCadena(VAR CADENA:TipoCADENA);
+(* Escribe una cadena *)
+PROCEDURE EscribeCadena(CADENA:TipoCADENA);
+(* Escribe un salto de linea *)
+PROCEDURE SaltoDeLinea();
+
+(* Lee un natural *)
+PROCEDURE LeeNatural(VAR NUMERO:NATURAL):BOOLEAN;
+(* Escribe un natural *)
+PROCEDURE EscribeNatural(NUMERO:NATURAL);
+
+(* Lee un real *)
+PROCEDURE LeeReal(VAR NUMERO:REAL):BOOLEAN;
+(* Escribe un real *)
+PROCEDURE EscribeReal(NUMERO:REAL);
+
+(* Toma el tiempo actual (milisegundos desde la medianoche anterior *)
+PROCEDURE TomaTiempo():CARDINAL;
+(* Calcula la duracion de un intervalo de tiempo *)
+PROCEDURE DuracionIntervalo(INICIAL,FINAL:NATURAL):NATURAL;
+
+END P2BIOS.

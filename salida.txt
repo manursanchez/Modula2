@@ -1,0 +1,136 @@
+Numero de pruebas a ejecutar: 9
+Prueba numero 1
+Aproximacion de orden 33 del seno de 6.280000000000000000000000000000000000000000000000
+
+Resultado de la funcion sink: -0.00318530179313260000000000000000000000000000000
+La funcion sink emplea 2930 milisegundos.
+
+Resultado de la funcion isink: -0.00318530179314400000000000000000000000000000000
+La funcion isink emplea 370 milisegundos.
+
+Resultado de la funcion iisink: -0.00318530179313740000000000000000000000000000000
+La funcion iisink emplea 390 milisegundos.
+
+Resultado de la funcion sinkit: -0.00318530179313920000000000000000000000000000000
+La funcion sink_it emplea 3480 milisegundos.
+
+Prueba numero 2
+Aproximacion de orden 12 del seno de 6.280000000000000000000000000000000000000000000000
+
+Resultado de la funcion sink: -0.00318499474255200000000000000000000000000000000
+La funcion sink emplea 480 milisegundos.
+
+Resultado de la funcion isink: -0.00318499474255240000000000000000000000000000000
+La funcion isink emplea 150 milisegundos.
+
+Resultado de la funcion iisink: -0.00318499474255510000000000000000000000000000000
+La funcion iisink emplea 140 milisegundos.
+
+Resultado de la funcion sinkit: -0.00318499474255850000000000000000000000000000000
+La funcion sink_it emplea 570 milisegundos.
+
+Prueba numero 3
+Aproximacion de orden 25 del seno de 6.280000000000000000000000000000000000000000000000
+
+Resultado de la funcion sink: -0.00318530179313260000000000000000000000000000000
+La funcion sink emplea 1670 milisegundos.
+
+Resultado de la funcion isink: -0.00318530179312670000000000000000000000000000000
+La funcion isink emplea 300 milisegundos.
+
+Resultado de la funcion iisink: -0.00318530179312490000000000000000000000000000000
+La funcion iisink emplea 280 milisegundos.
+
+Resultado de la funcion sinkit: -0.00318530179313920000000000000000000000000000000
+La funcion sink_it emplea 2110 milisegundos.
+
+Prueba numero 4
+Aproximacion de orden 9 del seno de 6.280000000000000000000000000000000000000000000000
+
+Resultado de la funcion sink: -0.00422245969022540000000000000000000000000000000
+La funcion sink emplea 290 milisegundos.
+
+Resultado de la funcion isink: -0.00422245969022590000000000000000000000000000000
+La funcion isink emplea 110 milisegundos.
+
+Resultado de la funcion iisink: -0.00422245969023380000000000000000000000000000000
+La funcion iisink emplea 110 milisegundos.
+
+Resultado de la funcion sinkit: -0.00422245969023200000000000000000000000000000000
+La funcion sink_it emplea 370 milisegundos.
+
+Prueba numero 5
+Aproximacion de orden 69 del seno de 6.280000000000000000000000000000000000000000000000
+
+Resultado de la funcion sink: -0.00318530179313260000000000000000000000000000000
+La funcion sink emplea 10820 milisegundos.
+
+Resultado de la funcion isink: -0.00318530179313070000000000000000000000000000000
+La funcion isink emplea 780 milisegundos.
+
+Resultado de la funcion iisink: -0.00318530179313290000000000000000000000000000000
+La funcion iisink emplea 790 milisegundos.
+
+Resultado de la funcion sinkit: -0.00318530179313920000000000000000000000000000000
+La funcion sink_it emplea 14090 milisegundos.
+
+Prueba numero 6
+Aproximacion de orden 1 del seno de 6.280000000000000000000000000000000000000000000000
+
+Resultado de la funcion sink: -34.9988586666670000000000000000000000000000000000
+La funcion sink emplea 10 milisegundos.
+
+Resultado de la funcion isink: -34.9988586666670000000000000000000000000000000000
+La funcion isink emplea 20 milisegundos.
+
+Resultado de la funcion iisink: -34.9988586666670000000000000000000000000000000000
+La funcion iisink emplea 10 milisegundos.
+
+Resultado de la funcion sinkit: -34.9988586666670000000000000000000000000000000000
+La funcion sink_it emplea 40 milisegundos.
+
+Prueba numero 7
+Aproximacion de orden 15 del seno de 6.280000000000000000000000000000000000000000000000
+
+Resultado de la funcion sink: -0.00318530181710850000000000000000000000000000000
+La funcion sink emplea 680 milisegundos.
+
+Resultado de la funcion isink: -0.00318530181710890000000000000000000000000000000
+La funcion isink emplea 170 milisegundos.
+
+Resultado de la funcion iisink: -0.00318530181711290000000000000000000000000000000
+La funcion iisink emplea 190 milisegundos.
+
+Resultado de la funcion sinkit: -0.00318530181711500000000000000000000000000000000
+La funcion sink_it emplea 840 milisegundos.
+
+Prueba numero 8
+Aproximacion de orden 44 del seno de 6.280000000000000000000000000000000000000000000000
+
+Resultado de la funcion sink: -0.00318530179313260000000000000000000000000000000
+La funcion sink emplea 4670 milisegundos.
+
+Resultado de la funcion isink: -0.00318530179313070000000000000000000000000000000
+La funcion isink emplea 500 milisegundos.
+
+Resultado de la funcion iisink: -0.00318530179313290000000000000000000000000000000
+La funcion iisink emplea 500 milisegundos.
+
+Resultado de la funcion sinkit: -0.00318530179313920000000000000000000000000000000
+La funcion sink_it emplea 5960 milisegundos.
+
+Prueba numero 9
+Aproximacion de orden 57 del seno de 6.280000000000000000000000000000000000000000000000
+
+Resultado de la funcion sink: -0.00318530179313260000000000000000000000000000000
+La funcion sink emplea 7560 milisegundos.
+
+Resultado de la funcion isink: -0.00318530179313070000000000000000000000000000000
+La funcion isink emplea 640 milisegundos.
+
+Resultado de la funcion iisink: -0.00318530179313290000000000000000000000000000000
+La funcion iisink emplea 660 milisegundos.
+
+Resultado de la funcion sinkit: -0.00318530179313920000000000000000000000000000000
+La funcion sink_it emplea 9710 milisegundos.
+

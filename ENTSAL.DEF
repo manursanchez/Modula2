@@ -1,0 +1,11 @@
+DEFINITION MODULE ENTSAL;
+
+FROM P2BIOS IMPORT NATURAL,REAL;
+
+(* Constante PI *)
+CONST PI=3.1415926535898;
+
+(* Lee una prueba del juego de pruebas y chequea que sea correcta *)
+PROCEDURE LeerPrueba(VAR X:REAL;VAR K:NATURAL):BOOLEAN;
+
+END ENTSAL.
